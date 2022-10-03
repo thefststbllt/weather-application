@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thefststbllt/.github.io/static/css/main.e631a51a.css",
+    "main.js": "/thefststbllt/.github.io/static/js/main.72b3fa3f.js",
+    "index.html": "/thefststbllt/.github.io/index.html",
+    "main.e631a51a.css.map": "/thefststbllt/.github.io/static/css/main.e631a51a.css.map",
+    "main.72b3fa3f.js.map": "/thefststbllt/.github.io/static/js/main.72b3fa3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e631a51a.css",
+    "static/js/main.72b3fa3f.js"
+  ]
+}
